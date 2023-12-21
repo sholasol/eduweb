@@ -1,0 +1,20 @@
+{
+    "navs": [
+        {
+            "display": "Home",
+            "url": "#"
+        },
+        {
+            "display": "About",
+            "url": "#"
+        },
+        {
+            "display": "Courses",
+            "url": "#"
+        },
+       {
+            "display": "Offers",
+            "url": "#"
+        }
+]
+}
