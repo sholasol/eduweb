@@ -53,6 +53,7 @@
     transform: translate(0, -6px);
     box-shadow: 10px -10px 25px 0 rgba(143, 64, 248, 0.5), -10px +10px 25px 0 rgba(39, 200, 255, 0.5);
 }
+
 @media only screen and (max-width: 991px) {
     .hero-container {
         padding: 20px;
@@ -61,7 +62,21 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-
-        border-radius: 15p;
+        background-color: #f8f2ed;      
+        border-radius: 15px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+    .search input {
+        border: none;
+        border-radius: 15px;
+        background-color: #f8f2ed;
+        outline: none;
+        font-size: 16px;
+    }
+    .search img {
+        width: 20px;
+        height: 20px;
+        cursor: pointer;
+        background-color: #fff;
     }
 }
