@@ -163,7 +163,7 @@ function Footer() {
                   </ListGroup>
           </Col>
           <Col lg='3' md='6'>
-            <h6 className='text-white pt-4'>Rapt 'N' Rel</h6>
+            <h6 className='text-white pt-4'>Hybridsoft</h6>
                 <ListGroup className='link_list'>
                     {
                         footerInfoLinks.map((item,index)=> (
