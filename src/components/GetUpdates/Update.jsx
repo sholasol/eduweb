@@ -5,7 +5,7 @@ import updateImg from '../../assets/getUpdates_img.png'
 
 function Update() {
   return (
-    <section>
+    <section className='update-section'>
       <Container>
         <Row>
           <Col lg='6' md='6' className='text-left'>
