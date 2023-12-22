@@ -182,7 +182,7 @@ function Footer() {
                     </div>
 
                     <div className='follows'>
-                        <p className='mb-0 d-flex align-items-center justify-content-center gap-2 text-white'>© Nuevicsu Tech. All rights reserved.</p> 
+                        <p className='mb-0 d-flex align-items-center justify-content-center gap-2 text-white'>© Hybridsoft. All rights reserved.</p> 
                         
                         <div className='d-flex align-items-center justify-content-center gap-2 links_socials'>
                             <span>
